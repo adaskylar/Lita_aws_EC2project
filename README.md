@@ -21,5 +21,7 @@ Went on to install apache using the commands
 ![Installapache(https://github.com/adaskylar/Lita_aws_EC2project/blob/main/Installapache.PNG)
 ![Confirmingru(https://github.com/adaskylar/Lita_aws_EC2project/blob/main/Confirmingru.PNG)
 ![sshexit(https://github.com/adaskylar/Lita_aws_EC2project/blob/main/sshexit.PNG)
+![Testpage(https://github.com/adaskylar/Lita_aws_EC2project/blob/main/Test%20page.PNG)
+
 
 
